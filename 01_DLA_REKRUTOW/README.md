@@ -1,5 +1,11 @@
 # Zadanie Rekrutacyjne (Level 2): Most UART -> ROS2
 
+
+> **Dla bardziej zaawansowanych:**
+> [Level 3 – Sterowanie ramieniem robotycznym w ROS 2](LEVEL_3.md)
+
+---
+
 ## 1. Cel zadania
 Stworzenie węzła ROS2 (Black-Box) w pliku **`serial_bridge_node.py`**, który odbiera surowe dane z wirtualnego portu szeregowego (symulującego mikrokontroler wiertła), odfiltrowuje błędy transmisji i publikuje pomiar w sieci ROS2.
 
