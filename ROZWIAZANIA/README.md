@@ -8,6 +8,10 @@ Archiwum rozwiązań przesłanych w ramach rekrutacji.
 | Dominik Kotus | [#2](https://github.com/CybAiR/recruitment-tasks/pull/2) | Zaliczone |
 | Igor Górnik | [#1](https://github.com/CybAiR/recruitment-tasks/pull/1) | Zaliczone |
 
+## Porównanie implementacji
+
+[Level 2 — wyniki i porównanie techniczne (2026)](POROWNANIE_LEVEL2_2026_KROTKIE.md)
+
 ## Zakres weryfikacji
 
 W dniu 21 listopada 2026 r. przeprowadzono automatyczne
