@@ -12,7 +12,7 @@ Archiwum rozwiązań przesłanych w ramach rekrutacji.
 
 ## Porównanie implementacji
 
-[Level 2 — wyniki i porównanie techniczne PR-ów #1–#3 (21 listopada 2026 r.)](POROWNANIE_LEVEL2_2026_KROTKIE.md)
+[Level 2 — wyniki i porównanie techniczne pięciu implementacji (2026)](POROWNANIE_LEVEL2_2026_KROTKIE.md)
 
 ## Zakres weryfikacji
 
